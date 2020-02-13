@@ -8,11 +8,7 @@
 在线访问: [http://47.92.146.72/eyepetizer/](http://47.92.146.72/eyepetizer/)
 
 ## 预览
-<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/1.png" width="375">
-<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/2.png" width="375">
-<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/3.png" width="375">
-<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/4.png" width="375">
-<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/5.png" width="375">
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/1.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/2.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/3.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/4.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/5.png" width="375">
 
 
 ## 开发目的
@@ -34,8 +30,7 @@
 > https://router.vuejs.org/zh/guide/essentials/dynamic-matching.html#响应路由参数的变化
 
 2. 当你发布后需要二级目录访问时，需要修改`router-->index.js`；修改`nginx`配置
-<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d2.png" width="375">
-<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d3.png" width="375">
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d2.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d3.png" width="375">
 
 
 ## 实现功能
