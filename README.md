@@ -8,15 +8,11 @@
 在线访问: [http://47.92.146.72/eyepetizer/](http://47.92.146.72/eyepetizer/)
 
 ## 预览
-![](https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/1.png)
-
-![](https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/2.png)
-
-![](https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/3.png)
-
-![](https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/4.png)
-
-![](https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/5.png)
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/1.png" width="375">
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/2.png" width="375">
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/3.png" width="375">
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/4.png" width="375">
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/5.png" width="375">
 
 
 ## 开发目的
@@ -33,13 +29,13 @@
 
 ## 采坑
 1. 使用 `vue-router` 时，当使用路由参数方式同一个页面跳转时，**组件的生命周期钩子不会再被调用**。
-![](https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d1.png)
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d1.png" width="375">
 
 > https://router.vuejs.org/zh/guide/essentials/dynamic-matching.html#响应路由参数的变化
 
 2. 当你发布后需要二级目录访问时，需要修改`router-->index.js`；修改`nginx`配置
-![](https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d2.png)
-![](https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d3.png)
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d2.png" width="375">
+<img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/d3.png" width="375">
 
 
 ## 实现功能
