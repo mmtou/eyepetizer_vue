@@ -1,11 +1,11 @@
-![](http://img.kaiyanapp.com/4-065061ff2459de367f556069bef11154.jpeg)
+![](https://pic1.zhimg.com/80/v2-9412528407ef564b20ac94a4c1b922a3_720w.jpg)
+
 # 开眼视频 vue 高仿版
 > 「开眼」是一款充满设计感的精品短视频应用。汇聚全球优质的短视频内容，推荐创意的短视频作品，从视觉到脑洞，带给用户全方位的惊喜与享受。
 
 [开眼视频 vue 高仿版](https://github.com/mmtou/eyepetizer_vue) 是基于「开眼」非开放 API 、使用 Vue + Vant 框架搭建的 H5 高仿版。（后续会发布 Flutter 版本，敬请期待~）
 
 项目源码: [https://github.com/mmtou/eyepetizer_vue](https://github.com/mmtou/eyepetizer_vue)  
-在线访问: [http://47.92.146.72/eyepetizer/](http://47.92.146.72/eyepetizer/)
 
 ## 预览
 <img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/1.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/2.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/3.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/4.png" width="375"><img src="https://github.com/mmtou/eyepetizer_vue/raw/master/demo/images/5.png" width="375">
